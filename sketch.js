@@ -1,6 +1,6 @@
 // martin julio
 // 3-4-23
-// trabajo practico 1 processing
+// trabajo practico 1 autorretrato en processing
 // informatica aplicada 1 - catedra bedoian
 // verison en p5js (25-5-23)
 
