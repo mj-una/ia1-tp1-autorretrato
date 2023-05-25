@@ -1,5 +1,5 @@
 // martin julio
-// 3.4.23
+// 3-4-23
 // trabajo practico 1 processing
 // informatica aplicada 1 - catedra bedoian
 // verison en p5js (25-5-23)
@@ -54,7 +54,7 @@ function draw() {
   // segun seno (agregado 25-5-23)
   else {
   frameRate(30);
-  tt = 6 + sin(frameCount / 13) * 6;
+  tt = 6 + sin(frameCount / 12) * 6;
   }
 
   background(255, 235, 110);
