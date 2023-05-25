@@ -1,4 +1,4 @@
-## Trabajo practico 1 autorretrato en processing
+## Trabajo practico 1 autorretrato en processing 
 
 Informatica Aplicada 1 - Catedra Bedoian
 
