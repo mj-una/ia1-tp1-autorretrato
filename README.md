@@ -1,12 +1,10 @@
-## Ejercicio 1
+## Trabajo practico 1 autorretrato
 
-Artes Multimediales 1 - Catedra Lacabanne
+Informatica Aplicada 1 - Catedra Bedoian
 
 Por Martin Julio
 
-Basado en obra de Yakov Chernikhov
+Para ver en <a href="https://editor.p5js.org/martin_julio/sketches/GRmxAs3hN" target="_blank" rel="noopener">editor-p5js</a>
 
-Para ver en <a href="https://editor.p5js.org/martin_julio/sketches/BwjL_LaIl" target="_blank" rel="noopener">editor-p5js</a>
-
-Para ver en <a href="https://mj-una.github.io/ej1-p5js/" target="_blank" rel="noopener">github-pages</a>
+Para ver en <a href="https://mj-una.github.io/tp1-procesing-autorretrato/" target="_blank" rel="noopener">github-pages</a>
 
